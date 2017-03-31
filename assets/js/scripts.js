@@ -234,13 +234,13 @@ jQuery(function ($) {
     // -------------------------------------------------------------
     // Vidio auto play
     // -------------------------------------------------------------
-    (function () {
+    /*(function () {
     
     /* Vimeo API: http://developer.vimeo.com/player/js-api */
     
-        var iframe = document.getElementById('nofocusvideo');
-        $f == Froogaloop
-        var player = $f(iframe);
+    /*    var iframe = document.getElementById('nofocusvideo');
+        //$f == Froogaloop
+        //var player = $f(iframe);
 
         $('.modal').on('hidden.bs.modal', function () {
         player.api('pause');
@@ -250,7 +250,7 @@ jQuery(function ($) {
         player.api('play');
         })
     }());
-
+*/
 
 
 
